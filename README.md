@@ -1,6 +1,6 @@
-# Dragon Killing Point (DKP) Bot for Discord
+# Dragon Killing Point (DKP) system via MeritBot for BWC Discord
 
-The DKP bot is a simple and efficient tool designed to track points that your guild members can earn or lose in any RPG game, right on Discord.
+The MeritBot is a simple and efficient DKP (dragon kill points) tool designed to track points that BWC-SC Org members can earn or lose in Star Citizen, right on Discord.
 
 ## Features
 
